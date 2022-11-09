@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Doko Demo RSSyo</title>
+        <link>https://dokodemo.neocities.org</link>
+        <description>Latest updates from DOKODEMO</description>
+        <language>en-us</language>
+        <image>
+            <url>https://dokodemo.neocities.org/images/whitestarbig.png</url>
+            <title>Doko Demo RSSyo</title>
+            <link>https://dokodemo.neocities.org</link>
+            <width>16</width>
+            <height>16</height>
+        </image>
+        
+        <item>
+            <title>Site Rehaul! Oct/14/22</title>
+            <guid isPermaLink="false">17</guid>
+            <description>Oh boy, very long update today. I've been working on overhauling my entire website for the past few months because V2 was quite messy. Hopefully this will be the last overhaul, and that you like it! 
+            </description>
+        </item>
+        
+                        <item>
+            <title>Update! Jul/18/22</title>
+            <guid isPermaLink="false">16</guid>
+            <description>Does anyone remember the website "Marry Your Favorite Character Online"? It recently went down without notice. I've decided to create my own <a href="/marriage.html">fictional marriage certificate generator</a>, along with some links where you can find others like it. Also, my site profile's temporarily disabled for personal reasons. I'm not sure when I'll re-enable it, so if you need to contact me you can use the E-mail link found at the bottom of my homepage.</description>
+        </item>
+        
+                <item>
+            <title>Update! Jul/2/22</title>
+            <guid isPermaLink="false">15</guid>
+            <description>I now have a materials page exclusively for things I myself have made! Go check it out. Everything is free to use! There's also a small update to my videogame console collection page, I've added a link to my Grouvee (which is just like myanimelist for videogames) so if you're interested in seeing all of the games I've played, go check that out. Although my memory is pretty poor so it was hard writing it all down...</description>
+        </item>
+
+        <item>
+            <title>Update! Jun/19/22</title>
+            <guid isPermaLink="false">14</guid>
+            <description> I now have an RSS feed! If you are reading this from my homepage CLICK THE ORANGE BUTTON!!! DO IT NOW!!! Are you reading it on your feed reader yet..? </description>
+        </item>
+
+
+        <item>
+            <title>Update! May/28/22</title>
+            <guid isPermaLink="false">13</guid>
+            <description> Two new blog entries added. Find out how to have your website appear the same on all resolutions and devices, as well as add custom scrollbars to Firefox! </description>
+        </item>
+        <item>
+            <title>Update! May/26/22</title>
+            <guid isPermaLink="false">12</guid>
+            <description> I now have a quiz section on my website! It'll stay in the navigation bar for now, but if I ever make more, I'll create it's own directory page. </description>
+        </item>
+        <item>
+            <title>Update! May/3/22</title>
+            <guid isPermaLink="false">11</guid>
+            <description> Adopt a Monster is back. It took me a while to redo the entire page because... I am a newbie with Javascript. and the way the thing worked means I had to manually "insert" every section into the new page. It was tedious and annoying. Hopefully you all like it though, I know a lot of people kept asking me when I was going to bring it back. </description>
+        </item>
+        <item>
+            <title>Update and PSA. May/1/22</title>
+            <guid isPermaLink="false">10</guid>
+            <description> It's been a while since the last update hasn't it? Another homepage and blog rearrangement. I made the font even smaller this time. Is it too small to read? Ah, also, there's more room in the updates box for me to talk now! I want to take this moment to reiterate; please do not take graphics from my site. If they aren't listed on materials page, I probably made them myself. And I would not like them to be stolen. The rotating fridge gif is modeled and animated by me. Most of the headers are drawn by me. Please do not use them. Even with credit. Thank you. </description>
+        </item>
+        <item>
+            <title>Update! Apr/3/22</title>
+            <guid isPermaLink="false">9</guid>
+            <description> Rearranged some stuff on the homepage. Unfortunately I had to remove the "up" and "new" Toro pixels I made for my navigation bar because they took up too much room, as cute as they were. I've replaced them with blinking bullets. Yellow is for new pages, blue is for updated pages! </description>
+        </item>
+        <item>
+            <title>Update! Feb/10/22</title>
+            <guid isPermaLink="false">8</guid>
+            <description> I just noticed months later that some of the images on the blinkies page were replaced with ones that were clearly not blinkies. I've fixed that, and added lots more buttons. I've also updated my About Me page, and moved the FAQ. Separated shrines and collection pages into different sections in the navigation. Added Pokemon sprites to materials page. </description>
+        </item>
+        <item>
+            <title>Update! Jan/22/22</title>
+            <guid isPermaLink="false">7</guid>
+            <description> Ignore the last update because I actually FORGOT to update NavLink. It's updated now. We also have a new an improved web materials page! </description>
+        </item>
+
+        <item>
+            <title>Update! Jan/3/22</title>
+            <guid isPermaLink="false">6</guid>
+            <description> Slight homepage revamp. Updated Navlink page to the new layout and added members. </description>
+        </item>
+
+        <item>
+            <title>Update! Dec/3/21</title>
+            <guid isPermaLink="false">5</guid>
+            <description> Decorated for the holidays :D I'm not religious but I think christmas decorations are cute! </description>
+        </item>
+
+        <item>
+            <title>Status Oct/1/21</title>
+            <guid isPermaLink="false">4</guid>
+            <description> I haven't had motivation to update anything recently. Bear with me.</description>
+        </item>
+
+        <item>
+            <title>Status Sep/8/21</title>
+            <guid isPermaLink="false">3</guid>
+            <description> Please ignore the constant construction on the site, I haven't had much time recently to constantly update things. So lots of things are broken and out of place. すみません！ </description>
+        </item>
+
+        <item>
+            <title>Update! Aug/18/21</title>
+            <guid isPermaLink="false">2</guid>
+            <description> Another website redesign!
+                I wanted to go back to a smaller cramped website, I felt as if the old one had too much empty space. I also wasn't feeling the right nav bar...
+                We now have site awards! </description>
+        </item>
+
+        <item>
+            <title>Update! Jul/2/21</title>
+            <guid isPermaLink="false">1</guid>
+            <description> Added Weebring, a webring for weeaboos </description>
+        </item>
+    </channel>
+</rss>
